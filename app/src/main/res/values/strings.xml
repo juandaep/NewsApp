@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+
+    <string-array name="description">
+        <item>The GeForce RTX 2080 Ti is an enthusiast-class graphics card by NVIDIA, launched in September 2018. Built on the 12 nm process, and based on the TU102 graphics processor, in its TU102-300A-K1-A1 variant, the card supports DirectX 12 Ultimate. This ensures that all modern games will run on GeForce RTX 2080 Ti. </item>
+        <item>The SteelSeries Apex Pro’s svelte aesthetic and clever OLED display are just the appetizers. The SteelSeries Apex Pro gets our coveted 5-star rating for many reasons, the biggest of which are its stunning and solid build, custom actuation and comfortable – not to mention, quiet – magnetic switches. Performance-wise, it’s among the best gaming keyboards we’ve tested yet, which makes its $199 price tag worth the splurge. </item>
+        <item>The new Intel Core i9-9900K is the step forward in mainstream processors (CPUs) we’ve been waiting for. It’s the CPU we hoped Intel would make ever since AMD Ryzen processors one-upped the company with high-core counts and massive multi-threading performance. intel\'s </item>
+        <item>The GeForce RTX 2080 Ti is an enthusiast-class graphics card by NVIDIA, launched in September 2018. Built on the 12 nm process, and based on the TU102 graphics processor, in its TU102-300A-K1-A1 variant, the card supports DirectX 12 Ultimate. This ensures that all modern games will run on GeForce RTX 2080 Ti.</item>
+        <item>The SteelSeries Apex Pro’s svelte aesthetic and clever OLED display are just the appetizers. The SteelSeries Apex Pro gets our coveted 5-star rating for many reasons, the biggest of which are its stunning and solid build, custom actuation and comfortable – not to mention, quiet – magnetic switches. Performance-wise, it’s among the best gaming keyboards we’ve tested yet, which makes its $199 price tag worth the splurge. </item>
+        <item>The new Intel Core i9-9900K is the step forward in mainstream processors (CPUs) we’ve been waiting for. It’s the CPU we hoped Intel would make ever since AMD Ryzen processors one-upped the company with high-core counts and massive multi-threading performance. intel\'s </item>
+
+    </string-array>
+
+    <integer-array name="image">
+        <item>@drawable/vga</item>
+        <item>@drawable/keyboard</item>
+        <item>@drawable/intel</item>
+        <item>@drawable/vga</item>
+        <item>@drawable/keyboard</item>
+        <item>@drawable/intel</item>
+    </integer-array>
+
+</resources>
